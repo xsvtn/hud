@@ -8,4 +8,4 @@ Co posiada:
 • Pieniądze, wraz z przecinkami, animacją dodawania.
 
 Autor:
-• satan ( kontaktthinks@gmail.com | discord: satan#4535 )
+• satan ( kontaktthinks@gmail.com | new discord: satan#4535 )
