@@ -1,0 +1,16 @@
+<meta>
+
+    <script src='client_hud.lua' type='client' cache='false'/>
+
+    <file src='files/fist.png'/>
+    <file src='files/heart_icon.png'/>
+    <file src='files/armor_icon.png'/>
+    <file src='files/lungs_icon.png'/>
+    <file src='files/food_icon.png'/>
+    <file src='files/bold.ttf'/>
+    <file src='files/regular.ttf'/>
+
+    <export function='showHUD' type='client'/>
+    <export function='hideHUD' type='client'/>
+
+</meta>
