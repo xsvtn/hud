@@ -4,9 +4,8 @@ Stworzony dla projektu FearthMTA.
 # Co posiada:
 Animacje,
 hp wraz z głodem, armorem a także powietrzem które ukazuje się w wodzie.
-płynne pokazywanie/ukrywanie HUD'u.
-
-Pieniądze wraz z przecinkami orazanimacją dodawania.
+płynne pokazywanie i ukrywanie HUD'u.
+pieniądze wraz z przecinkami oraz animacją dodawania.
 
 # Exporty
 exports['rpg_hud']:showHUD()
