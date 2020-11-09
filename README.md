@@ -4,7 +4,7 @@ Stworzony dla projektu FearthMTA.
 # Co posiada:
 Animacje,
 hp wraz z głodem, armorem a także powietrzem które ukazuje się w wodzie.
-Płynne pokazywanie/ukrywanie HUD'u.
+płynne pokazywanie/ukrywanie HUD'u.
 
 Pieniądze wraz z przecinkami orazanimacją dodawania.
 
