@@ -5,7 +5,7 @@ Stworzony dla projektu FearthMTA.
 Animacje progressbarów.
 HP, głód, armor a także powietrze w wodzie(pojawia się w wodzie).
 Płynne pokazywanie/ukrywanie HUD'u.
-Pieniądze, wraz z przecinkami, animacją dodawania.
+Pieniądze wraz z przecinkami orazanimacją dodawania.
 
 # Exporty
 exports['rpg_hud']:showHUD()
