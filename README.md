@@ -2,9 +2,10 @@
 Stworzony dla projektu FearthMTA.
 
 # Co posiada:
-Animacje progressbarów.
-HP, głód, armor a także powietrze w wodzie(pojawia się w wodzie).
+Animacje,
+hp wraz z głodem, armorem a także powietrzem które ukazuje się w wodzie.
 Płynne pokazywanie/ukrywanie HUD'u.
+
 Pieniądze wraz z przecinkami orazanimacją dodawania.
 
 # Exporty
